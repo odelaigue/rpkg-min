@@ -1,2 +1,7 @@
 language: r
 cache: packages
+
+r:
+- oldred
+- release
+- devel
